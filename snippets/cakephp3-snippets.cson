@@ -63,3 +63,7 @@
   "debugger":
     "prefix": "debug();"
     "body": "debug($1);$2"
+
+  "namespace":
+    "prefix": "namespace"
+    "body": "namespace"
