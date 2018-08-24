@@ -98,11 +98,3 @@
   "use":
     "prefix": "use"
     "body": "use $1;"
-
-  "table-class":
-    "prefix": "class"
-    "body": """
-    class [model]Class extends Table{
-
-    }
-    """
